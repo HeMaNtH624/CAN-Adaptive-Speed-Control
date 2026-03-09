@@ -32,3 +32,4 @@ int main(){
 		LCD_CMD(0X01);
 	}
 }
+
